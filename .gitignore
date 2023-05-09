@@ -1,5 +1,6 @@
+# IntelliJ Idea
+/.idea
+/*.iml
+
+# Maven
 /target
-/results
-.idea
-Dockerfile
-Notes.txt
